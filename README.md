@@ -120,87 +120,72 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 ## <img src="https://media.giphy.com/media/Mby9q1LQpiD8Fg5Jla/giphy.gif" width="28"> Let's Connect & Build Together
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<a href="https://me.nhotin.space">
-  <img src="https://img.icons8.com/fluency/96/web.png" width="50" />
-  <br/>
-  <strong>Portfolio</strong>
-</a>
-<br/>
-<sub>me.nhotin.space</sub>
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://hypersona.vn">
-  <img src="https://img.icons8.com/fluency/96/launched-rocket.png" width="50" />
-  <br/>
-  <strong>Hypersona</strong>
-</a>
-<br/>
-<sub>AI for Vietnamese SMEs</sub>
-
-</td>
-<td align="center" width="33%">
-
-<a href="mailto:Nhotincute09112003@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" />
-  <br/>
-  <strong>Email</strong>
-</a>
-<br/>
-<sub>Drop me a line</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-<a href="https://t.me/LTNhoTin">
-  <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="50" />
-  <br/>
-  <strong>Telegram</strong>
-</a>
-<br/>
-<sub>@LTNhoTin</sub>
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://github.com/nhotin">
-  <img src="https://img.icons8.com/fluency/96/github.png" width="50" />
-  <br/>
-  <strong>GitHub</strong>
-</a>
-<br/>
-<sub>@nhotin</sub>
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://www.facebook.com/LTNhoTin">
-  <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" />
-  <br/>
-  <strong>Facebook</strong>
-</a>
-<br/>
-<sub>Casual chat</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://me.nhotin.space">
+          <img src="https://img.icons8.com/fluency/96/domain.png" width="48" />
+          <br/>
+          <b>Portfolio</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">Digital space</font>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://hypersona.vn">
+          <img src="https://img.icons8.com/fluency/96/rocket.png" width="48" />
+          <br/>
+          <b>Hypersona</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">AI for SMEs</font>
+      </td>
+      <td align="center" width="33%">
+        <a href="mailto:Nhotincute09112003@gmail.com">
+          <img src="https://img.icons8.com/fluency/96/gmail.png" width="48" />
+          <br/>
+          <b>Email</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">Drop a line</font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://t.me/LTNhoTin">
+          <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="48" />
+          <br/>
+          <b>Telegram</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">@LTNhoTin</font>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/nhotin">
+          <img src="https://img.icons8.com/fluency/96/github.png" width="48" />
+          <br/>
+          <b>GitHub</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">@nhotin</font>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.facebook.com/LTNhoTin">
+          <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="48" />
+          <br/>
+          <b>Facebook</b>
+        </a>
+        <br/>
+        <font size="2" color="#5f6368">Casual chat</font>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <a href="https://me.nhotin.space">
   <img src="https://img.shields.io/badge/Visit%20my%20portfolio-A7E8BD?style=for-the-badge&logo=safari&logoColor=2D5F3F&labelColor=B5D8EB" />
 </a>
 
-</div>
 
 <br/>
 
