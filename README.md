@@ -6,7 +6,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/nhotin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&lines=Building+AI-powered+SaaS+for+Vietnamese+SMEs;Sona+AI+Agent+%E2%80%A2+Omnichannel+Automation;FPT+University+%E2%80%A2+Ho+Chi+Minh+City;Tiki-taka+football+%E2%9A%BD+%2B+Clean+code+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&lines= Building+AI-powered+SaaS+for+Vietnamese+SMEs;Sona+AI+Agent+%E2%80%A2+Omnichannel+Automation;FPT+University+%E2%80%A2+Ho+Chi+Minh+City;Tiki-taka+football+%E2%9A%BD+%2B+Clean+code+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
