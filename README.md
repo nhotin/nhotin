@@ -3,15 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Nho+T%C3%ADn+%E2%9C%A8" alt="Header" />
 </div>
 
+<!-- ===== CLOUD HEADER ===== -->
 <div align="center">
-  <a href="https://github.com/nhotin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B5D8EB&center=true&vCenter=true&width=600&lines=Founder+%26+Fullstack+AI+Lead+at+Aidex;Building+Hypersona+%E2%80%A2+AI+for+Vietnamese+SMEs" alt="Subtitle" />
-  </a>
+  <img src="https://raw.githubusercontent.com/nhotin/nhotin/main/cloud-header.svg" width="100%" alt="cloud header" />
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/nhotin">
