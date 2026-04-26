@@ -13,29 +13,24 @@
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
-<table align="center" style="border: none;">
-<tr>
-<td width="55%" valign="top">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World!
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
+I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to building intelligent solutions for Vietnamese SMEs. My current mission is **Hypersona** — an AI-powered omnichannel SaaS platform that automates customer engagement across Messenger, Zalo OA, and Instagram.
 
-I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an AI-powered omnichannel SaaS platform helping Vietnamese spa & beauty SMEs automate their booking and customer engagement across Messenger, Zalo OA, and Instagram.
+---
 
-- 🚀 &nbsp;Founder & Fullstack AI Lead at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
+#### 🔭 At a Glance
+- 🚀 &nbsp;**Founder & Fullstack AI Lead** at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
+- 🤖 &nbsp;Passionate about engineering **LLM Agents** and **RAG Systems**
 - 🎓 &nbsp;Final-year student at **FPT University HCMC**
-- 🏆 &nbsp;**1st Prize** — FIP Youth Startup 2025
-- 🤖 &nbsp;Passionate about **LLM agents** & **RAG systems**
-- ⚡ &nbsp;Daily driver: **Mac (Apple Silicon)** + **Linux server**
+- 🏆 &nbsp;**1st Prize** winner at **FIP Youth Startup 2025**
+
+#### ⚡ Quick Facts
+- 💻 &nbsp;Daily driver: **Mac (Apple Silicon)** + **Linux server**
 - ⚽ &nbsp;Off-screen: building tiki-taka squads in eFootball
+- 🍎 &nbsp;Philosophy: **Clean Code** + **Tiki-taka Football**
 
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nhotin&show_icons=true&theme=transparent&hide_border=true&title_color=A7E8BD&icon_color=B5D8EB&text_color=8FBC8F&bg_color=00000000&include_all_commits=true" />
-
-</td>
-</tr>
-</table>
+---
 
 <br/>
 
@@ -78,8 +73,8 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nhotin&show_icons=true&theme=transparent&hide_border=true&title_color=A7E8BD&icon_color=B5D8EB&text_color=8FBC8F&bg_color=00000000&include_all_commits=true" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nhotin&theme=transparent&hide_border=true&background=00000000&stroke=A7E8BD&ring=B5D8EB&fire=A7E8BD&currStreakLabel=B5D8EB&sideLabels=8FBC8F&currStreakNum=8FBC8F&dates=8FBC8F&sideNums=8FBC8F" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=transparent&hide_border=true&title_color=A7E8BD&text_color=8FBC8F&bg_color=00000000&langs_count=8" />
 
 </div>
