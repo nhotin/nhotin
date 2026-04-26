@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Hi%20there,%20I'm%20Nho%20T%C3%ADn%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Founder%20of%20Aidex&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=A7E8BD&height=180&section=header&text=Hi%20there,%20I'm%20Nho%20T%C3%ADn%20%E2%9C%A8&fontSize=40&fontColor=2D5F3F&desc=Founder%20%26%20Fullstack%20AI%20Lead%20at%20Aidex&descAlignY=65&descSize=16" />
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -21,7 +21,7 @@
 
 I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an AI-powered omnichannel SaaS platform helping Vietnamese spa & beauty SMEs automate their booking and customer engagement across Messenger, Zalo OA, and Instagram.
 
-- 🚀 Founder & Tech Lead at **[Hypersona](https://hypersona.vn)**
+- 🚀 Founder & Fullstack AI Lead at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
 - 🎓 Final-year student at **FPT University HCMC**
 - 🏆 **1st Prize** — FIP Youth Startup 2025
 - 🤖 Passionate about **LLM agents** & **RAG systems**
@@ -45,28 +45,28 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-A7E8BD?style=for-the-badge&logo=python&logoColor=2D5F3F)
-![TypeScript](https://img.shields.io/badge/TypeScript-B5D8EB?style=for-the-badge&logo=typescript&logoColor=1E3A5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE5A7?style=for-the-badge&logo=javascript&logoColor=5C4A1A)
-![SQL](https://img.shields.io/badge/SQL-C8E6D0?style=for-the-badge&logo=postgresql&logoColor=2D5F3F)
+![Python](https://img.shields.io/badge/Python-A7E8BD?style=flat&logo=python&logoColor=2D5F3F)
+![TypeScript](https://img.shields.io/badge/TypeScript-B5D8EB?style=flat&logo=typescript&logoColor=1E3A5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE5A7?style=flat&logo=javascript&logoColor=5C4A1A)
+![SQL](https://img.shields.io/badge/SQL-C8E6D0?style=flat&logo=postgresql&logoColor=2D5F3F)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-B5D8EB?style=for-the-badge&logo=react&logoColor=1E3A5F)
-![Next.js](https://img.shields.io/badge/Next.js-D4E8E1?style=for-the-badge&logo=next.js&logoColor=1E3A5F)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-A7D8E8?style=for-the-badge&logo=tailwindcss&logoColor=1E3A5F)
-![Vite](https://img.shields.io/badge/Vite-E8D4F0?style=for-the-badge&logo=vite&logoColor=4A2D5F)
+![React](https://img.shields.io/badge/React-B5D8EB?style=flat&logo=react&logoColor=1E3A5F)
+![Next.js](https://img.shields.io/badge/Next.js-D4E8E1?style=flat&logo=next.js&logoColor=1E3A5F)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-A7D8E8?style=flat&logo=tailwindcss&logoColor=1E3A5F)
+![Vite](https://img.shields.io/badge/Vite-E8D4F0?style=flat&logo=vite&logoColor=4A2D5F)
 
 ### Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-A7E8BD?style=for-the-badge&logo=fastapi&logoColor=2D5F3F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B5D8EB?style=for-the-badge&logo=postgresql&logoColor=1E3A5F)
-![Redis](https://img.shields.io/badge/Redis-F0C8C8?style=for-the-badge&logo=redis&logoColor=5F2D2D)
-![PhoBERT](https://img.shields.io/badge/PhoBERT-D4E8E1?style=for-the-badge&logo=huggingface&logoColor=2D5F3F)
+![FastAPI](https://img.shields.io/badge/FastAPI-A7E8BD?style=flat&logo=fastapi&logoColor=2D5F3F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B5D8EB?style=flat&logo=postgresql&logoColor=1E3A5F)
+![Redis](https://img.shields.io/badge/Redis-F0C8C8?style=flat&logo=redis&logoColor=5F2D2D)
+![LLM](https://img.shields.io/badge/LLM-D4E8E1?style=flat&logo=huggingface&logoColor=2D5F3F)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-B5D8EB?style=for-the-badge&logo=docker&logoColor=1E3A5F)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FFE5A7?style=for-the-badge&logo=cloudflare&logoColor=5C4A1A)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-D4E8E1?style=for-the-badge&logo=github-actions&logoColor=2D5F3F)
-![Linux](https://img.shields.io/badge/Linux-A7E8BD?style=for-the-badge&logo=linux&logoColor=2D5F3F)
+![Docker](https://img.shields.io/badge/Docker-B5D8EB?style=flat&logo=docker&logoColor=1E3A5F)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FFE5A7?style=flat&logo=cloudflare&logoColor=5C4A1A)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-D4E8E1?style=flat&logo=github-actions&logoColor=2D5F3F)
+![Linux](https://img.shields.io/badge/Linux-A7E8BD?style=flat&logo=linux&logoColor=2D5F3F)
 
 </div>
 
@@ -107,7 +107,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=00000000&color=8FBC8F&line=A7E8BD&point=B5D8EB&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&theme=react-dark&bg_color=00000000&hide_border=true&area=true" />
 </div>
 
 <br/>
@@ -118,7 +118,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 <div align="center">
 
 <a href="https://hypersona.vn">
-  <img src="https://img.shields.io/badge/-Hypersona-A7E8BD?style=for-the-badge&logo=rocket&logoColor=2D5F3F" />
+  <img src="https://img.shields.io/badge/-Hypersona-A7E8BD?style=flat&logo=rocket&logoColor=2D5F3F" />
 </a>
 
 **AI-powered omnichannel SaaS for Vietnamese spa & beauty SMEs**
@@ -138,10 +138,10 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-A7E8BD?style=for-the-badge&logo=gmail&logoColor=2D5F3F)](mailto:Nhotincute09112003@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-B5D8EB?style=for-the-badge&logo=telegram&logoColor=1E3A5F)](https://t.me/LTNhoTin)
-[![Hypersona](https://img.shields.io/badge/Hypersona-D4E8E1?style=for-the-badge&logo=safari&logoColor=2D5F3F)](https://hypersona.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-C8E6D0?style=for-the-badge&logo=github&logoColor=2D5F3F)](https://github.com/nhotin)
+[![Gmail](https://img.shields.io/badge/Gmail-A7E8BD?style=flat&logo=gmail&logoColor=2D5F3F)](mailto:Nhotincute09112003@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-B5D8EB?style=flat&logo=telegram&logoColor=1E3A5F)](https://t.me/LTNhoTin)
+[![Hypersona](https://img.shields.io/badge/Hypersona-D4E8E1?style=flat&logo=safari&logoColor=2D5F3F)](https://hypersona.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-C8E6D0?style=flat&logo=github-actions&logoColor=2D5F3F)](https://github.com/nhotin)
 
 </div>
 
