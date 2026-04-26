@@ -98,11 +98,18 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <br/>
 
-<!-- ===== TROPHIES ===== -->
-## 🏆 GitHub Trophies
+<!-- ===== ACHIEVEMENTS ===== -->
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhotin&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+| 🥇 Award | 📅 Year | 🎯 Event |
+|----------|---------|----------|
+| **1st Prize** + Most Creative | 2025 | FIP Youth Startup |
+| **Top 10** + Most Favorite Team | 2025 | EXCAP |
+| **Top 15** | 2025 | Next Wave of Startups |
+| **117+** Paying Businesses | 2026 | Hypersona Traction |
+
 </div>
 
 <br/>
