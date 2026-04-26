@@ -76,7 +76,11 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.gif" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
+  </picture>
 </div>
 
 <br/>
@@ -98,7 +102,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhotin&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nhotin&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </div>
 
 <br/>
@@ -107,7 +111,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&theme=react-dark&bg_color=00000000&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=ffffff00&color=8FBC8F&line=A7E8BD&point=B5D8EB&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 <br/>
@@ -141,7 +145,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 [![Gmail](https://img.shields.io/badge/Gmail-A7E8BD?style=flat&logo=gmail&logoColor=2D5F3F)](mailto:Nhotincute09112003@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-B5D8EB?style=flat&logo=telegram&logoColor=1E3A5F)](https://t.me/LTNhoTin)
 [![Hypersona](https://img.shields.io/badge/Hypersona-D4E8E1?style=flat&logo=safari&logoColor=2D5F3F)](https://hypersona.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-C8E6D0?style=flat&logo=github-actions&logoColor=2D5F3F)](https://github.com/nhotin)
+[![GitHub](https://img.shields.io/badge/GitHub-C8E6D0?style=flat&logo=github&logoColor=2D5F3F)](https://github.com/nhotin)
 
 </div>
 
