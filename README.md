@@ -1,8 +1,17 @@
-<!-- ===== HEADER BANNER ===== -->
+<!-- ===== HEADER CLOUD BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=90,ffffff,e0f7fa&height=200&section=header&text=Hi%20there,%20I'm%20Nho%20T%C3%ADn%20%E2%9C%A8&fontSize=42&fontColor=2D5F3F&animation=fadeIn&fontAlignY=40&desc=Founder%20%26%20Fullstack%20AI%20Lead%20at%20Aidex&descAlignY=62&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Nho+T%C3%ADn+%E2%9C%A8" alt="Header" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/nhotin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B5D8EB&center=true&vCenter=true&width=600&lines=Founder+%26+Fullstack+AI+Lead+at+Aidex;Building+Hypersona+%E2%80%A2+AI+for+Vietnamese+SMEs" alt="Subtitle" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+</p>
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/nhotin">
