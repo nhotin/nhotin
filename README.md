@@ -61,8 +61,8 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg?color_snake=A7E8BD&color_dots=161b22,0e4429,006d32,26a641,39d353" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg?color_snake=A7E8BD&color_dots=ebedf0,c6e48b,7bc96f,239a3b,196127" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
   </picture>
 </div>
@@ -112,7 +112,7 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 <br/>
 
 <!-- ===== CONTACT ===== -->
-## 📬 Let's Connect & Build Together
+## <img src="https://media.giphy.com/media/Mby9q1LQpiD8Fg5Jla/giphy.gif" width="28"> Let's Connect & Build Together
 
 I'm always open to discussing **AI automation**, **SaaS development**, or **Startup opportunities**. Feel free to reach out through any of these channels!
 
