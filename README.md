@@ -61,8 +61,8 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg?color_snake=A7E8BD&color_dots=161b22,0e4429,006d32,26a641,39d353" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg?color_snake=A7E8BD&color_dots=ebedf0,c6e48b,7bc96f,239a3b,196127" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
   </picture>
 </div>
@@ -144,5 +144,7 @@ I'm always open to discussing **AI automation**, **SaaS development**, or **Star
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=2D5F3F&fontAlignY=50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1MGZqMGFpM2ZqMGFpM2ZqMGFpM2ZqMGFpM2ZqMGFpM2ZqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v6aOebdclIYonvGNO9/giphy.gif" width="50">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=90,ffffff,e0f7fa&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=2D5F3F&fontAlignY=50" />
 </div>
