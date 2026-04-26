@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Nho+T%C3%ADn+%E2%9C%A8" alt="Header" />
 </div>
 
-<!-- ===== CLOUD HEADER ===== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nhotin/nhotin/main/cloud-header.svg" width="100%" alt="cloud header" />
-</div>
+
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/nhotin">
