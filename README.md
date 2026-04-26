@@ -110,75 +110,20 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 
 <br/>
 
-<!-- ===== CONTACT (REDESIGNED) ===== -->
-## <img src="https://media.giphy.com/media/Mby9q1LQpiD8Fg5Jla/giphy.gif" width="28"> Let's Connect & Build Together
+<!-- ===== CONTACT ===== -->
+## 📬 Let's Connect & Build Together
+
+I'm always open to discussing **AI automation**, **SaaS development**, or **Startup opportunities**. Feel free to reach out through any of these channels!
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://me.nhotin.space">
-          <img src="https://img.icons8.com/fluency/96/domain.png" width="48" />
-          <br/>
-          <b>Portfolio</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">Digital space</font>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://hypersona.vn">
-          <img src="https://img.icons8.com/fluency/96/rocket.png" width="48" />
-          <br/>
-          <b>Hypersona</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">AI for SMEs</font>
-      </td>
-      <td align="center" width="33%">
-        <a href="mailto:Nhotincute09112003@gmail.com">
-          <img src="https://img.icons8.com/fluency/96/gmail.png" width="48" />
-          <br/>
-          <b>Email</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">Drop a line</font>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://t.me/LTNhoTin">
-          <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="48" />
-          <br/>
-          <b>Telegram</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">@LTNhoTin</font>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/nhotin">
-          <img src="https://img.icons8.com/fluency/96/github.png" width="48" />
-          <br/>
-          <b>GitHub</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">@nhotin</font>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.facebook.com/LTNhoTin">
-          <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="48" />
-          <br/>
-          <b>Facebook</b>
-        </a>
-        <br/>
-        <font size="2" color="#5f6368">Casual chat</font>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<a href="https://me.nhotin.space">
-  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-A7E8BD?style=for-the-badge&logo=safari&logoColor=2D5F3F&labelColor=B5D8EB" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-A7E8BD?style=for-the-badge&logo=google-chrome&logoColor=2D5F3F)](https://me.nhotin.space)
+[![Email](https://img.shields.io/badge/Email-B5D8EB?style=for-the-badge&logo=gmail&logoColor=1E3A5F)](mailto:Nhotincute09112003@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-D4E8E1?style=for-the-badge&logo=telegram&logoColor=2D5F3F)](https://t.me/LTNhoTin)
+[![Facebook](https://img.shields.io/badge/Facebook-C8E6D0?style=for-the-badge&logo=facebook&logoColor=2D5F3F)](https://www.facebook.com/LTNhoTin)
+[![GitHub](https://img.shields.io/badge/GitHub-FFE5A7?style=for-the-badge&logo=github&logoColor=5C4A1A)](https://github.com/nhotin)
+
+</div>
 
 
 <br/>
