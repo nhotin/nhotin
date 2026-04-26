@@ -17,16 +17,16 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🌱 About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
 
 I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an AI-powered omnichannel SaaS platform helping Vietnamese spa & beauty SMEs automate their booking and customer engagement across Messenger, Zalo OA, and Instagram.
 
-- 🚀 Founder & Fullstack AI Lead at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
-- 🎓 Final-year student at **FPT University HCMC**
-- 🏆 **1st Prize** — FIP Youth Startup 2025
-- 🤖 Passionate about **LLM agents** & **RAG systems**
-- ⚡ Daily driver: **Mac (Apple Silicon)** + **Linux server**
-- ⚽ Off-screen: building tiki-taka squads in eFootball
+- 🚀 &nbsp;Founder & Fullstack AI Lead at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
+- 🎓 &nbsp;Final-year student at **FPT University HCMC**
+- 🏆 &nbsp;**1st Prize** — FIP Youth Startup 2025
+- 🤖 &nbsp;Passionate about **LLM agents** & **RAG systems**
+- ⚡ &nbsp;Daily driver: **Mac (Apple Silicon)** + **Linux server**
+- ⚽ &nbsp;Off-screen: building tiki-taka squads in eFootball
 
 </td>
 <td width="45%" valign="top">
@@ -39,41 +39,29 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
-## 💻 Tech Stack
+<!-- ===== TECH STACK (CUTE ICONS) ===== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-A7E8BD?style=flat&logo=python&logoColor=2D5F3F)
-![TypeScript](https://img.shields.io/badge/TypeScript-B5D8EB?style=flat&logo=typescript&logoColor=1E3A5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE5A7?style=flat&logo=javascript&logoColor=5C4A1A)
-![SQL](https://img.shields.io/badge/SQL-C8E6D0?style=flat&logo=postgresql&logoColor=2D5F3F)
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,postgres&theme=light)](https://skillicons.dev)
 
-### Frontend
-![React](https://img.shields.io/badge/React-B5D8EB?style=flat&logo=react&logoColor=1E3A5F)
-![Next.js](https://img.shields.io/badge/Next.js-D4E8E1?style=flat&logo=next.js&logoColor=1E3A5F)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-A7D8E8?style=flat&logo=tailwindcss&logoColor=1E3A5F)
-![Vite](https://img.shields.io/badge/Vite-E8D4F0?style=flat&logo=vite&logoColor=4A2D5F)
+#### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=light)](https://skillicons.dev)
 
-### Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-A7E8BD?style=flat&logo=fastapi&logoColor=2D5F3F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B5D8EB?style=flat&logo=postgresql&logoColor=1E3A5F)
-![Redis](https://img.shields.io/badge/Redis-F0C8C8?style=flat&logo=redis&logoColor=5F2D2D)
-![LLM](https://img.shields.io/badge/LLM-D4E8E1?style=flat&logo=huggingface&logoColor=2D5F3F)
+#### Backend & AI
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,redis,supabase,prisma&theme=light)](https://skillicons.dev)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-B5D8EB?style=flat&logo=docker&logoColor=1E3A5F)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FFE5A7?style=flat&logo=cloudflare&logoColor=5C4A1A)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-D4E8E1?style=flat&logo=github-actions&logoColor=2D5F3F)
-![Linux](https://img.shields.io/badge/Linux-A7E8BD?style=flat&logo=linux&logoColor=2D5F3F)
+#### DevOps & Tools
+[![DevOps](https://skillicons.dev/icons?i=docker,cloudflare,githubactions,linux,nginx,git&theme=light)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
 <!-- ===== SNAKE ANIMATION ===== -->
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Contribution Snake
 
 <div align="center">
   <picture>
@@ -86,7 +74,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 <br/>
 
 <!-- ===== STATS ROW ===== -->
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
@@ -98,10 +86,8 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <br/>
 
-
-
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Activity Graph
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=ffffff00&color=8FBC8F&line=A7E8BD&point=B5D8EB&area=true&hide_border=true&custom_title=Contribution%20Activity" />
@@ -110,7 +96,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 <br/>
 
 <!-- ===== FEATURED PROJECT ===== -->
-## 🌟 Featured Project
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Project
 
 <div align="center">
 
@@ -130,23 +116,101 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <br/>
 
-<!-- ===== CONTACT ===== -->
-## 📫 Let's Connect
+<!-- ===== CONTACT (REDESIGNED) ===== -->
+## <img src="https://media.giphy.com/media/Mby9q1LQpiD8Fg5Jla/giphy.gif" width="28"> Let's Connect & Build Together
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-A7E8BD?style=flat&logo=gmail&logoColor=2D5F3F)](mailto:Nhotincute09112003@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-B5D8EB?style=flat&logo=telegram&logoColor=1E3A5F)](https://t.me/LTNhoTin)
-[![Hypersona](https://img.shields.io/badge/Hypersona-D4E8E1?style=flat&logo=safari&logoColor=2D5F3F)](https://hypersona.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-C8E6D0?style=flat&logo=github&logoColor=2D5F3F)](https://github.com/nhotin)
+<table>
+<tr>
+<td align="center" width="33%">
+
+<a href="https://me.nhotin.space">
+  <img src="https://img.icons8.com/fluency/96/web.png" width="50" />
+  <br/>
+  <strong>Portfolio</strong>
+</a>
+<br/>
+<sub>me.nhotin.space</sub>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://hypersona.vn">
+  <img src="https://img.icons8.com/fluency/96/launched-rocket.png" width="50" />
+  <br/>
+  <strong>Hypersona</strong>
+</a>
+<br/>
+<sub>AI for Vietnamese SMEs</sub>
+
+</td>
+<td align="center" width="33%">
+
+<a href="mailto:Nhotincute09112003@gmail.com">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" />
+  <br/>
+  <strong>Email</strong>
+</a>
+<br/>
+<sub>Drop me a line</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<a href="https://t.me/LTNhoTin">
+  <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="50" />
+  <br/>
+  <strong>Telegram</strong>
+</a>
+<br/>
+<sub>@LTNhoTin</sub>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://github.com/nhotin">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="50" />
+  <br/>
+  <strong>GitHub</strong>
+</a>
+<br/>
+<sub>@nhotin</sub>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://www.facebook.com/LTNhoTin">
+  <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" />
+  <br/>
+  <strong>Facebook</strong>
+</a>
+<br/>
+<sub>Casual chat</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://me.nhotin.space">
+  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-A7E8BD?style=for-the-badge&logo=safari&logoColor=2D5F3F&labelColor=B5D8EB" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ===== VISITOR COUNTER + QUOTE ===== -->
+<!-- ===== VISITOR COUNTER ===== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nhotin&label=Profile%20views&color=A7E8BD&style=flat" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/nhotin?label=Followers&style=flat&color=B5D8EB" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/nhotin?label=Stars&style=flat&color=A7E8BD" />
 </div>
 
 <div align="center">
@@ -155,5 +219,5 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=70" />
 </div>
