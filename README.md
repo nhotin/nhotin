@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Hi%20there,%20I'm%20Nho%20T%C3%ADn%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Founder%20of%20Aidex&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=200&section=header&text=Hi%20there,%20I'm%20Nho%20T%C3%ADn%20%E2%9C%A8&fontSize=42&fontColor=2D5F3F&animation=fadeIn&fontAlignY=40&desc=Founder%20%26%20Fullstack%20AI%20Lead%20at%20Aidex&descAlignY=62&descSize=18" />
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -73,7 +73,6 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nhotin&show_icons=true&theme=transparent&hide_border=true&title_color=A7E8BD&icon_color=B5D8EB&text_color=8FBC8F&bg_color=00000000&include_all_commits=true" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nhotin&theme=transparent&hide_border=true&background=00000000&stroke=A7E8BD&ring=B5D8EB&fire=A7E8BD&currStreakLabel=B5D8EB&sideLabels=8FBC8F&currStreakNum=8FBC8F&dates=8FBC8F&sideNums=8FBC8F" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=transparent&hide_border=true&title_color=A7E8BD&text_color=8FBC8F&bg_color=00000000&langs_count=8" />
 
@@ -199,5 +198,5 @@ I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to bu
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=2D5F3F&fontAlignY=50" />
 </div>
