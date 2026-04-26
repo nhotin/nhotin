@@ -98,21 +98,7 @@ I'm **Lê Tô Nho Tín**, a passionate developer building **Hypersona** — an A
 
 <br/>
 
-<!-- ===== ACHIEVEMENTS ===== -->
-## 🏆 Achievements & Recognition
 
-<div align="center">
-
-| 🥇 Award | 📅 Year | 🎯 Event |
-|----------|---------|----------|
-| **1st Prize** + Most Creative | 2025 | FIP Youth Startup |
-| **Top 10** + Most Favorite Team | 2025 | EXCAP |
-| **Top 15** | 2025 | Next Wave of Startups |
-| **117+** Paying Businesses | 2026 | Hypersona Traction |
-
-</div>
-
-<br/>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 ## 📈 Activity Graph
