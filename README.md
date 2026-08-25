@@ -1,150 +1,209 @@
-<!-- ===== HEADER CLOUD BANNER ===== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Nho+T%C3%ADn+%E2%9C%A8" alt="Header" />
-</div>
-
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Nho%20Tín&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Founder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/nhotin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A7E8BD&center=true&vCenter=true&width=600&lines=Building+AI+SaaS+for+Vietnamese+SMEs;Sona+AI+Agent+%E2%80%A2+Omnichannel+Automation;FPT+University+%E2%80%A2+Ho+Chi+Minh+City;Tiki-taka+football+%E2%9A%BD+%2B+Clean+code+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+building+production-grade+AI+systems;%24+deploying+LLM+agents+%7C+RAG+pipelines+%7C+SaaS" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- ===== ABOUT ME ===== -->
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World!
+<!-- ===== ABOUT ===== -->
+<table align="center">
+<tr><td>
 
-I'm **Lê Tô Nho Tín**, a Full-stack Developer and AI Engineer dedicated to building intelligent solutions for Vietnamese SMEs. My current mission is **Hypersona** — an AI-powered omnichannel SaaS platform that automates customer engagement across Messenger, Zalo OA, and Instagram.
+```js
+const nhotin = {
+    name: "Lê Tô Nho Tín",
+    role: "AI Engineer & Full-Stack Developer",
+    location: "Ho Chi Minh City, Vietnam",
+    company: { name: "Aidex", position: "Founder & Lead Engineer" },
+    focus: [
+        "LLM Agent Orchestration",
+        "RAG Pipeline Architecture",
+        "Production AI Systems",
+        "Omnichannel SaaS Platforms",
+    ],
+    currently_building: "Hypersona — AI SaaS for Vietnamese SMEs",
+    daily_tools: ["Neovim", "macOS", "Docker", "Git"],
+};
+```
+
+</td></tr>
+</table>
 
 ---
 
-#### 🔭 At a Glance
-- 🚀 &nbsp;**Founder & Fullstack AI Lead** at **Aidex** (Project: **[Hypersona](https://hypersona.vn)**)
-- 🤖 &nbsp;Passionate about engineering **LLM Agents** and **RAG Systems**
-- 🎓 &nbsp;Final-year student at **FPT University HCMC**
-- 🏆 &nbsp;**1st Prize** winner at **FIP Youth Startup 2025**
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
-#### ⚡ Quick Facts
-- 💻 &nbsp;Daily driver: **Mac (Apple Silicon)** + **Linux server**
-- ⚽ &nbsp;Off-screen: building tiki-taka squads in eFootball
-- 🍎 &nbsp;Philosophy: **Clean Code** + **Tiki-taka Football**
+<div align="center">
+<br/>
+
+<details open>
+<summary><b>🧠 &nbsp;AI / ML</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=58a6ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffd21e)
+![PhoBERT](https://img.shields.io/badge/PhoBERT-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+
+</details>
+
+<details open>
+<summary><b>🔧 &nbsp;Backend</b></summary>
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 &nbsp;Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+</details>
+
+<details open>
+<summary><b>☁️ &nbsp;Infrastructure</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</details>
+
+<br/>
+</div>
 
 ---
+
+<!-- ===== FEATURED PROJECT ===== -->
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+<br/>
+
+<a href="https://hypersona.vn">
+  <img src="https://img.shields.io/badge/HYPERSONA-AI_Omnichannel_SaaS-58a6ff?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%">
+
+**AI-powered customer engagement platform for Vietnamese SMEs**
+
+- 🤖 **Sona AI Agent** — Autonomous conversational agent with Vietnamese-first NLP
+- 💬 **Omnichannel** — Messenger · Zalo OA · Instagram unified inbox
+- 📅 **Smart Automation** — Auto-booking, follow-ups, customer insights
+- 📊 **Analytics Dashboard** — Real-time engagement metrics & reporting
+
+</td>
+<td width="50%">
+
+```
+Architecture
+├── Frontend     → React 18 + Vite
+├── API Layer    → FastAPI (Python)
+├── Database     → PostgreSQL + Redis
+├── AI Engine    → PhoBERT + LLM Agents
+├── Infra        → Docker + Cloudflare
+└── CI/CD        → GitHub Actions
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ===== TECH STACK (CUTE ICONS) ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
-
-<div align="center">
-
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,postgres&theme=light)](https://skillicons.dev)
-
-#### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=light)](https://skillicons.dev)
-
-#### Backend & AI
-[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,redis,supabase,prisma&theme=light)](https://skillicons.dev)
-
-#### DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=docker,cloudflare,githubactions,linux,nginx,git&theme=light)](https://skillicons.dev)
+![1st Prize](https://img.shields.io/badge/🥇_FIP_Youth_Startup_2025-1st_Prize-58a6ff?style=flat-square)
+![EXCAP](https://img.shields.io/badge/🏅_EXCAP_2025-Top_10-8b949e?style=flat-square)
+![Businesses](https://img.shields.io/badge/📈_Paying_Businesses-117+-7ee787?style=flat-square)
 
 </div>
 
 <br/>
 
-<!-- ===== SNAKE ANIMATION ===== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Contribution Snake
+---
+
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+<br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nhotin&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+<br/>
+
+---
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
   </picture>
 </div>
 
 <br/>
 
-<!-- ===== STATS ROW ===== -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nhotin&theme=transparent&hide_border=true&background=00000000&stroke=A7E8BD&ring=B5D8EB&fire=A7E8BD&currStreakLabel=B5D8EB&sideLabels=8FBC8F&currStreakNum=8FBC8F&dates=8FBC8F&sideNums=8FBC8F" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=transparent&hide_border=true&title_color=A7E8BD&text_color=8FBC8F&bg_color=00000000&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=ffffff00&color=8FBC8F&line=A7E8BD&point=B5D8EB&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
-<br/>
-
-<!-- ===== FEATURED PROJECT ===== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Project
-
-<div align="center">
-
-<a href="https://hypersona.vn">
-  <img src="https://img.shields.io/badge/-Hypersona-A7E8BD?style=flat&logo=rocket&logoColor=2D5F3F" />
-</a>
-
-**AI-powered omnichannel SaaS for Vietnamese spa & beauty SMEs**
-
-🤖 Sona AI Agent &nbsp;•&nbsp; 💬 Messenger + Zalo OA + Instagram &nbsp;•&nbsp; 📅 Auto-booking &nbsp;•&nbsp; 🇻🇳 Vietnamese-first NLP
-
-`React 18` `FastAPI` `PostgreSQL` `PhoBERT` `Docker` `Cloudflare`
-
-🏆 **1st Prize** FIP Youth Startup 2025 &nbsp;•&nbsp; **Top 10** EXCAP 2025 &nbsp;•&nbsp; **117+** paying businesses
-
-</div>
-
-<br/>
+---
 
 <!-- ===== CONTACT ===== -->
-## <img src="https://media.giphy.com/media/Mby9q1LQpiD8Fg5Jla/giphy.gif" width="28"> Let's Connect & Build Together
-
-I'm always open to discussing **AI automation**, **SaaS development**, or **Startup opportunities**. Feel free to reach out through any of these channels!
+<h2 align="center">📬 Connect</h2>
 
 <div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A7E8BD?style=for-the-badge&logo=google-chrome&logoColor=2D5F3F)](https://me.nhotin.space)
-[![Email](https://img.shields.io/badge/Email-B5D8EB?style=for-the-badge&logo=gmail&logoColor=1E3A5F)](mailto:Nhotincute09112003@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-D4E8E1?style=for-the-badge&logo=telegram&logoColor=2D5F3F)](https://t.me/LTNhoTin)
-[![Facebook](https://img.shields.io/badge/Facebook-C8E6D0?style=for-the-badge&logo=facebook&logoColor=2D5F3F)](https://www.facebook.com/LTNhoTin)
-[![GitHub](https://img.shields.io/badge/GitHub-FFE5A7?style=for-the-badge&logo=github&logoColor=5C4A1A)](https://github.com/nhotin)
-
-</div>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-nhotin.space-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://me.nhotin.space)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-nhotincute09112003-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:Nhotincute09112003@gmail.com)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-@LTNhoTin-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/LTNhoTin)
 
 <br/>
 
-<!-- ===== VISITOR COUNTER ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhotin&label=Profile%20views&color=A7E8BD&style=flat" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/nhotin?label=Followers&style=flat&color=B5D8EB" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/nhotin?label=Stars&style=flat&color=A7E8BD" />
+![](https://komarev.com/ghpvc/?username=nhotin&label=Profile+Views&color=58a6ff&style=flat-square)
+
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</div>
+<br/>
 
 <!-- ===== FOOTER ===== -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1MGZqMGFpM2ZqMGFpM2ZqMGFpM2ZqMGFpM2ZqMGFpM2ZqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v6aOebdclIYonvGNO9/giphy.gif" width="50">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=90,ffffff,e0f7fa&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=2D5F3F&fontAlignY=50" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
