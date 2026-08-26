@@ -1,11 +1,16 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1e293b,0f172a,0284c7,38bdf8&height=220&section=header&text=L%C3%AA%20T%C3%B4%20Nho%20T%C3%ADn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Software%20Engineer&descFontSize=18&descAlignY=62&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1e293b,0f172a,0284c7,38bdf8&height=200&section=header&text=L%C3%AA%20T%C3%B4%20Nho%20T%C3%ADn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems&descFontSize=18&descAlignY=62&descColor=93c5fd" width="100%"/>
+
+<!-- Animated Coding Cat -->
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Coding Cat" />
+<br/>
 
 <!-- Monospace Terminal Subtitle -->
 <a href="https://github.com/nhotin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+%26+RAG+Systems;Architecting+Scalable+Software+Architectures;Full-Stack+Engineering+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+%26+RAG+Pipelines;Fine-Tuning+LLMs+%E2%80%A2+Vietnamese+NLP+%E2%80%A2+Vector+Search;Engineering+High-Performance+AI+Backends+%26+MLOps;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+Docker" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,60 +25,60 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-I am an **AI Engineer & Full-Stack Software Engineer** passionate about designing autonomous multi-agent systems, production-grade RAG pipelines, and high-performance software architectures.
+I am an **AI Engineer** specializing in autonomous multi-agent systems, enterprise-grade Retrieval-Augmented Generation (RAG), and scalable machine learning infrastructure.
 
-- 🧠 **AI & ML Specialization**: LLM Agent Orchestration, Retrieval-Augmented Generation (RAG), Vector Embeddings, Vietnamese NLP (PhoBERT), and Fine-tuning.
-- 🏗️ **Systems Engineering**: High-concurrency backend services, asynchronous task processing, distributed databases, and clean modular architectures.
-- 🚀 **Past Startup Venture**: Co-Founder & Technical Lead of **Hypersona** *(Concluded / Archived)* — Built an AI-powered Omnichannel SaaS for automated customer workflows.
-- 🎓 **Education**: Software Engineering at **FPT University HCMC**.
+- 🤖 **Core Focus**: Autonomous LLM Agents, Advanced RAG Pipelines, Vector Search & Embeddings, Vietnamese NLP (PhoBERT), and Model Fine-tuning.
+- ⚙️ **AI Systems & Backend**: Architecting low-latency asynchronous microservices, high-throughput model inference pipelines, and distributed vector storage.
+- 🚀 **Past Startup Venture**: Co-Founder & Technical Lead of **Hypersona** *(Concluded / Archived)* — Engineered an AI-driven multi-agent platform for automated customer workflows.
+- 🎓 **Education**: Software Engineering / Computer Science at **FPT University HCMC**.
 - 🏆 **Honors & Awards**: **1st Prize Winner** — *FIP Youth Startup 2025* | **Top 10** — *EXCAP 2025*.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal (AI & Systems)
 
 <table>
   <tr>
-    <td width="25%" valign="top"><b>🤖 AI & Machine Learning</b></td>
-    <td width="75%">
+    <td width="28%" valign="top"><b>🤖 AI, LLM & Deep Learning</b></td>
+    <td width="72%">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-4353FF?style=flat-square"/>
       <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG%20Pipelines-0284c7?style=flat-square"/>
       <img src="https://img.shields.io/badge/PhoBERT%20/%20NLP-10b981?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Pgvector%20/%20Qdrant-3b82f6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG%20Architectures-0284c7?style=flat-square"/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>⚙️ Backend & Systems</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <td width="28%" valign="top"><b>🔍 Vector Search & Databases</b></td>
+    <td width="72%">
+      <img src="https://img.shields.io/badge/Pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>⚙️ AI Backend & Distributed Systems</b></td>
+    <td width="72%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>💻 Frontend Development</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>🚀 Cloud, DevOps & Tools</b></td>
-    <td width="75%">
+    <td width="28%" valign="top"><b>🚀 MLOps, Cloud & Infrastructure</b></td>
+    <td width="72%">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
@@ -106,7 +111,7 @@ I am an **AI Engineer & Full-Stack Software Engineer** passionate about designin
 - 🤖 **Autonomous AI Agent Core (Sona)**: Real-time natural language dialogue management with Vietnamese context awareness.
 - ⚡ **Omnichannel Synchronization**: Live bidirectional messaging webhook integrations across Meta Messenger, Zalo Official Account, and Instagram Direct.
 - 🔍 **Hybrid RAG Engine**: Semantic search & contextual business retrieval powered by vector databases and PhoBERT fine-tuned embeddings.
-- 📊 **Tech Stack**: `FastAPI` • `React 18 / Next.js` • `PostgreSQL / Pgvector` • `Redis Queue` • `Docker` • `Cloudflare Edge`
+- 📊 **Tech Stack**: `FastAPI` • `PostgreSQL / Pgvector` • `Redis Queue` • `PhoBERT` • `Docker` • `Cloudflare Edge`
 - 🏆 **Recognition**: Awarded **1st Prize** at *FIP Youth Startup 2025* & reached **Top 10** at *EXCAP 2025*.
 
 ---
