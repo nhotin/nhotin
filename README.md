@@ -1,24 +1,23 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1e293b,0f172a,0284c7,38bdf8&height=200&section=header&text=L%C3%AA%20T%C3%B4%20Nho%20T%C3%ADn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems&descFontSize=18&descAlignY=62&descColor=93c5fd" width="100%"/>
-
-<!-- Animated Coding Cat -->
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Coding Cat" />
-<br/>
-
-<!-- Monospace Terminal Subtitle -->
-<a href="https://github.com/nhotin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+%26+RAG+Pipelines;Fine-Tuning+LLMs+%E2%80%A2+Vietnamese+NLP+%E2%80%A2+Vector+Search;Engineering+High-Performance+AI+Backends+%26+MLOps;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+Docker" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1e293b,0f172a,0284c7,38bdf8&height=200&section=header&text=L%C3%AA%20T%C3%B4%20Nho%20T%C3%ADn&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agentic%20Systems&descFontSize=17&descAlignY=62&descColor=93c5fd" width="100%" alt="Header Banner" />
 
 <p align="center">
-  <a href="https://me.nhotin.space"><img src="https://img.shields.io/badge/Portfolio-me.nhotin.space-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:nhotin911@gmail.com"><img src="https://img.shields.io/badge/Email-nhotin911%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/LTNhoTin"><img src="https://img.shields.io/badge/Telegram-@LTNhoTin-229ED9?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/LTNhoTin"><img src="https://img.shields.io/badge/Facebook-Lê%20Tô%20Nho%20Tín-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/nhotin"><img src="https://img.shields.io/github/followers/nhotin?label=Followers&style=flat-square&color=0284c7" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160" alt="Coding Cat Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nhotin">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+and+RAG+Pipelines;Fine-Tuning+LLMs+|+Vietnamese+NLP+|+Vector+Search;Engineering+High-Performance+AI+Backends+|+MLOps;Python+|+PyTorch+|+FastAPI+|+LangChain+|+Docker" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://me.nhotin.space"><img src="https://img.shields.io/badge/Portfolio-me.nhotin.space-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nhotin911@gmail.com"><img src="https://img.shields.io/badge/Email-nhotin911%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/LTNhoTin"><img src="https://img.shields.io/badge/Telegram-@LTNhoTin-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.facebook.com/LTNhoTin"><img src="https://img.shields.io/badge/Facebook-Lê%20Tô%20Nho%20Tín-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/nhotin"><img src="https://img.shields.io/github/followers/nhotin?label=Followers&style=flat-square&color=0284c7" alt="Followers" /></a>
 </p>
 
 </div>
@@ -120,23 +119,23 @@ I am an **AI Engineer** specializing in autonomous multi-agent systems, enterpri
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
-<a href="https://github.com/nhotin">
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhotin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/nhotin">
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=7" alt="Top Languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/nhotin">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhotin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nhotin">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=7" alt="Top Languages" />
+  </a>
+</p>
 
-<br/><br/>
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" width="95%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nhotin/nhotin/output/snake.svg" width="95%" />
+  </picture>
+</p>
 
 </div>
 
