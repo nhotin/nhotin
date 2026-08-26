@@ -5,12 +5,12 @@
 
 <!-- Monospace Terminal Subtitle -->
 <a href="https://github.com/nhotin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+%26+RAG+Systems;Architecting+Scalable+Omnichannel+SaaS+Platforms;Full-Stack+Engineering+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+Production-Ready+AI+Agents+%26+RAG+Systems;Architecting+Scalable+Software+Architectures;Full-Stack+Engineering+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://me.nhotin.space"><img src="https://img.shields.io/badge/Portfolio-me.nhotin.space-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:Nhotincute09112003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nhotin911@gmail.com"><img src="https://img.shields.io/badge/Email-nhotin911%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/LTNhoTin"><img src="https://img.shields.io/badge/Telegram-@LTNhoTin-229ED9?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://www.facebook.com/LTNhoTin"><img src="https://img.shields.io/badge/Facebook-Lê%20Tô%20Nho%20Tín-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/nhotin"><img src="https://img.shields.io/github/followers/nhotin?label=Followers&style=flat-square&color=0284c7" /></a>
@@ -22,13 +22,13 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Engineer & Full-Stack Software Engineer** passionate about designing autonomous multi-agent systems, production-grade RAG pipelines, and high-performance SaaS architectures.
+I am an **AI Engineer & Full-Stack Software Engineer** passionate about designing autonomous multi-agent systems, production-grade RAG pipelines, and high-performance software architectures.
 
-- 🚀 **Founder & Technical Lead** at **Aidex** — Architecting **[Hypersona](https://hypersona.vn)**, an enterprise-grade AI omnichannel communication SaaS handling automated workflows across Zalo OA, Messenger, and Instagram.
-- 🧠 **AI & ML Focus**: LLM Agent Orchestration, Retrieval-Augmented Generation (RAG), Vector Embeddings, Vietnamese NLP (PhoBERT), and Fine-tuning.
-- 🏗️ **Systems Engineering**: Building low-latency asynchronous microservices, resilient event-driven architectures, and scalable APIs.
+- 🧠 **AI & ML Specialization**: LLM Agent Orchestration, Retrieval-Augmented Generation (RAG), Vector Embeddings, Vietnamese NLP (PhoBERT), and Fine-tuning.
+- 🏗️ **Systems Engineering**: High-concurrency backend services, asynchronous task processing, distributed databases, and clean modular architectures.
+- 🚀 **Past Startup Venture**: Co-Founder & Technical Lead of **Hypersona** *(Concluded / Archived)* — Built an AI-powered Omnichannel SaaS for automated customer workflows.
 - 🎓 **Education**: Software Engineering at **FPT University HCMC**.
-- 🏆 **Achievements**: **1st Prize Winner** — *FIP Youth Startup 2025* | **Top 10** — *EXCAP 2025*.
+- 🏆 **Honors & Awards**: **1st Prize Winner** — *FIP Youth Startup 2025* | **Top 10** — *EXCAP 2025*.
 
 ---
 
@@ -86,7 +86,7 @@ I am an **AI Engineer & Full-Stack Software Engineer** passionate about designin
 
 ---
 
-### 🌟 Key Featured Project
+### 🌟 Featured Architecture & Startup Case Study
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I am an **AI Engineer & Full-Stack Software Engineer** passionate about designin
      /___/_/                                            
 ```
 
-#### 🚀 **[Hypersona.vn](https://hypersona.vn) — Omnichannel AI Agent Platform**
+#### 🚀 **Hypersona — Omnichannel AI Agent Platform** *(Archived / Case Study)*
 *An end-to-end intelligent customer engagement & booking automation ecosystem for businesses.*
 
 </div>
@@ -107,6 +107,7 @@ I am an **AI Engineer & Full-Stack Software Engineer** passionate about designin
 - ⚡ **Omnichannel Synchronization**: Live bidirectional messaging webhook integrations across Meta Messenger, Zalo Official Account, and Instagram Direct.
 - 🔍 **Hybrid RAG Engine**: Semantic search & contextual business retrieval powered by vector databases and PhoBERT fine-tuned embeddings.
 - 📊 **Tech Stack**: `FastAPI` • `React 18 / Next.js` • `PostgreSQL / Pgvector` • `Redis Queue` • `Docker` • `Cloudflare Edge`
+- 🏆 **Recognition**: Awarded **1st Prize** at *FIP Youth Startup 2025* & reached **Top 10** at *EXCAP 2025*.
 
 ---
 
@@ -115,19 +116,13 @@ I am an **AI Engineer & Full-Stack Software Engineer** passionate about designin
 <div align="center">
 
 <!-- GitHub Stats & Top Languages -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nhotin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
+<a href="https://github.com/nhotin">
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhotin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+</a>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=7" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=nhotin&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=f8fafc&dates=64748b" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nhotin&bg_color=0d1117&color=94a3b8&line=38bdf8&point=0284c7&area=true&hide_border=true&custom_title=Contribution%20Analytics" />
+<a href="https://github.com/nhotin">
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=7" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
